@@ -1,0 +1,21 @@
+{
+  "name": "دوراهی — شبیه‌ساز تصمیم",
+  "short_name": "دوراهی",
+  "description": "هوش مصنوعی که سناریوهای آینده تصمیم‌های زندگیت را شبیه‌سازی می‌کند",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔮</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "productivity", "utilities"]
+}
